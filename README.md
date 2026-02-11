@@ -17,7 +17,8 @@
 * `HacherRank`[link page 🔗](https://www.hackerrank.com/): Coding, Prepare and apply for your dream job.
 * `Codewars`[link page 🔗](https://www.codewars.com/): Coding, Improve your development skills.
 * `Datacamp`[link page 🔗](https://app.datacamp.com/): Data, Coding.
-* `Sololearn`[link page 🔗](https://www.sololearn.com/): Learn to code. 
+* `Sololearn`[link page 🔗](https://www.sololearn.com/): Learn to code.
+* `Strata Scratch` [link page 🔗](https://www.stratascratch.com/): Practice real interview questions.
 
 ## 📝 About This Repository
 
