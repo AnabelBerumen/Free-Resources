@@ -20,6 +20,8 @@
 * `Sololearn`[link page 🔗](https://www.sololearn.com/): Learn to code.
 * `Strata Scratch` [link page 🔗](https://www.stratascratch.com/): Practice real interview questions.
 
+### Quiz / Flashcards
+* `roadmap.sh` [link page 🔗](https://roadmap.sh/questions/data-science): Data science interviws quiz
 ## 📝 About This Repository
 
 **Free Resources** is a living space built from my passion for continuous learning.  
