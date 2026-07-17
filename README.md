@@ -5,6 +5,11 @@
 ✨This section is for course pages that cover various topics.
 * `FreeCodeCamp `[link page 🔗](https://www.freecodecamp.org/news/free-certificates/): Compilation of certifications(Cisco, CodeSignal, Google, FutureLearn, Great Learning, HackerRank, Harvard, Hasso, IBM, Cognitive Class, kaggle, linkedIn, Matlab, Semrush,University of Helsinki, upGrad, Wolfram).
 *  `Cognitive class ` [link page 🔗](https://cognitiveclass.ai/): (Big Data, AI/ML/DL, Containers).
+*  `Cisco `[link page 🔗](https://www.netacad.com/): (Cybersecurity, programming, English)
+*  `Khan Academy `[link page 🔗](https://es.khanacademy.org/):(Build a deep and solid understanding in mathematics, science, and more.)
+*  `Coursera `[link page 🔗](https://www.coursera.org/): (Courses in general)
+*  `Udemy ` [link page 🔗](https://www.udemy.com): (Courses in general)
+*  `Santander open academy ` [link page 🔗](https://www.santanderopenacademy.com/es/index.html): (Courses in general)
 ## ☁️ Cloud
 #### AWS
 * `LocalStack `[link GIT 🔗](https://github.com/localstack/localstack?ref=www.awesomepython.org):  allows you to run AWS services locally.
