@@ -14,7 +14,7 @@
 * `LeetCode`[link page 🔗](https://leetcode.com/): Coding, enhance your skills, expand your knowledge and prepare for technical interviews.
 * `NeetCode`[link page 🔗](https://neetcode.io/): Coding, A better way to prepare for coding interviews.
 * `Kaggle`[link page 🔗](https://www.kaggle.com/): Data, largest AI & ML community, datasets, notebooks.
-* `HacherRank`[link page 🔗](https://www.hackerrank.com/): Coding, Prepare and apply for your dream job.
+* `HackerRank`[link page 🔗](https://www.hackerrank.com/): Coding, Prepare and apply for your dream job.
 * `Codewars`[link page 🔗](https://www.codewars.com/): Coding, Improve your development skills.
 * `Datacamp`[link page 🔗](https://app.datacamp.com/): Data, Coding.
 * `Sololearn`[link page 🔗](https://www.sololearn.com/): Learn to code.
