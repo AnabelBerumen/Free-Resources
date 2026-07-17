@@ -10,6 +10,12 @@
 *  `Coursera `[link page 🔗](https://www.coursera.org/): (Courses in general)
 *  `Udemy ` [link page 🔗](https://www.udemy.com): (Courses in general)
 *  `Santander open academy ` [link page 🔗](https://www.santanderopenacademy.com/es/index.html): (Courses in general)
+*  `Aprende Org Carlos Slim`[link page 🔗](https://aprende.org/):(General)
+
+## Languages
+* `Centro de idiomas UVEG`[link page 🔗](https://campusidiomas.uveg.edu.mx/):(English, Japanese, German, French, Spanish)
+* `Kultivi`[link page 🔗](https://kultivi.com/curso/portugues-para-concursos):(Portuguese)
+
 ## ☁️ Cloud
 #### AWS
 * `LocalStack `[link GIT 🔗](https://github.com/localstack/localstack?ref=www.awesomepython.org):  allows you to run AWS services locally.
@@ -28,7 +34,7 @@
 ### Quiz / Flashcards / interviews / games
 * `roadmap.sh` [link page 🔗](https://roadmap.sh/questions/data-science): Data science interviws quiz
 * `Interview Query` [link page 🔗](https://www.interviewquery.com/): Ace your machine learning interviews
-* 
+  
 ## 📝 About This Repository
 
 **Free Resources** is a living space built from my passion for continuous learning.  
